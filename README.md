@@ -14,3 +14,4 @@
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-1.png)
 Протокол ICMP включен по умолчанию 
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-2.png)
+настройка SRV1
