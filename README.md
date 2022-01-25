@@ -18,6 +18,6 @@
 1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя SRV1 презагружаемся.
 2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.19.66 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.66
 3) Устанавливаем AD - WIN+r - CMD - Powershell - Install-WindowsFeature -Name AD-Domain-Services
-4) Водим PC в домен WIN+r - CMD - Powershell - водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем PC
+4) Водим SRV1 в домен WIN+r - CMD - Powershell - водим в одну строчку add-computer -domainname moscow.wsr водим пользователя и пароль, презагружаем SRV1
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/SRV1-1.png)
 5) Возвращаемся DC1 AD идём во вкладку manage - add server - вкладка DNS и добавляем PC SRV1 и нажимаем ОК.
