@@ -12,3 +12,4 @@
 9) водим маску подсети 255.255.255.192
 10) водим основной шлюз 172.16.19.126
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-1.png)
+Протокол ICMP включен по умолчанию 
