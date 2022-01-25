@@ -13,3 +13,4 @@
 10) водим основной шлюз 172.16.19.126
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-1.png)
 Протокол ICMP включен по умолчанию 
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-2.png)
