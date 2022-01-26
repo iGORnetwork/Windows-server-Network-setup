@@ -15,8 +15,8 @@
 Протокол ICMP включен по умолчанию 
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-2.png)
 # настройка SRV1
-1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя SRV1 презагружаемся.
-2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.19.66 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.65
+1) Меняем имя - CMD - sconfig - 2 - водим имя SRV1 презагружаемся.
+2) Настраеваем сеть - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.19.66 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.65
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/SRV1-1.png)
 3) Протокол ICMP включен по умолчанию 
 # настройка DCA
@@ -33,3 +33,7 @@
 2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.20.97 - маска 255.255.255.224
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC2-1.png)
 3) Протокол ICMP включен по умолчанию 
+# настраиваем SRV2
+1) Меняем имя - CMD - sconfig - 2 - водим имя SRV2 презагружаемся.
+2) Настраеваем сеть - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.20.98 - 255.255.255.224
+
