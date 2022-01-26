@@ -26,3 +26,5 @@
 3) Протокол ICMP включен по умолчанию 
 # настройка CLI1
 1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя CLI1 презагружаемся.
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/CLI1-1.png)
+2) Протокол ICMP включен по умолчанию 
