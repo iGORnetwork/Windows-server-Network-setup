@@ -18,4 +18,4 @@
 1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя SRV1 презагружаемся.
 2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.19.66 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.66
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/SRV1-1.png)
-
+Протокол ICMP включен по умолчанию 
