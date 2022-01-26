@@ -44,3 +44,4 @@
 # настройка R2
 1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя R2 презагружаемся
 2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 200.100.100.1 - маска 255.255.255.252
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/R2-1.png)
