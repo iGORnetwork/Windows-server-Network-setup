@@ -24,3 +24,5 @@
 2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.19.67 - маска 255.255.255.192 шлюз 172.16.19.126 DNS 172.16.19.65
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC1-1.png)
 3) Протокол ICMP включен по умолчанию 
+# настройка CLI1
+1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя CLI1 презагружаемся.
