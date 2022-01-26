@@ -39,3 +39,5 @@
 ![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/SRV2-1.png)
 # настройка CLI2
 1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя CLI2 презагружаемся.
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/CLI2-2.png)
+2) Протокол ICMP включен по умолчанию 
