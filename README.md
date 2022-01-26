@@ -36,4 +36,5 @@
 # настраиваем SRV2
 1) Меняем имя - CMD - sconfig - 2 - водим имя SRV2 презагружаемся.
 2) Настраеваем сеть - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.20.98 - 255.255.255.224
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/SRV2-1.png)
 
