@@ -31,3 +31,5 @@
 # настройка DC2
 1) Меняем имя PC WIN+r - CMD - sconfig - 2 - водим имя DC2 презагружаемся.
 2) Настраеваем сеть WIN+r - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 172.16.20.97 - маска 255.255.255.224
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/DC2-1.png)
+3) Протокол ICMP включен по умолчанию 
