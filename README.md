@@ -48,3 +48,4 @@
 # настройка R1
 1) Меняем имя - CMD - sconfig - 2 - водим имя R1 презагружаемся.
 2) Настраеваем сеть - CMD - sconfig - 8 - 1 - 1 - S - водим IP адрес 200.100.100.2 - маска 255.255.255.252
+![](https://github.com/iGORnetwork/Windows-server-Network-setup/blob/main/R1-1.png)
